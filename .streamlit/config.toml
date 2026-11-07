@@ -1,0 +1,10 @@
+# [theme]에 바로 값을 넣으면 커스텀 테마 하나로 고정돼 시스템 다크 모드를 따르지 않는다.
+# 라이트/다크를 따로 지정하면 사용자의 시스템 설정을 따른다.
+[theme.light]
+primaryColor = "#4F46E5"
+
+[theme.dark]
+primaryColor = "#818CF8"
+
+[browser]
+gatherUsageStats = false
